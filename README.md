@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides a comprehensive guide and script for installing and configuring Apache Superset on a VirtualBox machine running Ubuntu/Debian. Apache Superset is a modern, open-source data exploration and visualization platform that is highly extensible and easy to use. I have used Linux Mint 22.
+This repository provides a comprehensive guide and script for installing and configuring Apache Superset on a VirtualBox machine running Ubuntu/Debian. Apache Superset is a modern, open-source data exploration and visualization platform that is highly extensible and easy to use. This project has been developed using Linux Mint 22, but it is compatible with any Ubuntu-based distribution.
 
 <img src="https://github.com/Vasant19/Apache-Superset-Configuration/blob/main/Apache%20superset.png" alt="Architecture Apache Superset" width="600">
 

@@ -118,4 +118,4 @@ Once the setup is complete and Superset is running, you can access the web inter
 
 ### Conclusion
 You now have Apache Superset installed and configured on your Ubuntu/Debian VirtualBox machine. You can start exploring data, creating dashboards, and leveraging Superset's powerful visualization features.
-If you face any problems feel free to Open an issue. 
+If you face any problems feel free to Open an issue or fill out this form https://forms.gle/R5dSfH8taeZ3s391A

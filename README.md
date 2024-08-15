@@ -7,7 +7,6 @@ This repository provides a comprehensive guide and script for installing and con
 <img src="https://github.com/Vasant19/Apache-Superset-Configuration/blob/main/Apache%20superset.png" alt="Architecture Apache Superset" width="600">
 
 
-
 ## Features
 
 - Automated installation of Apache Superset
@@ -114,3 +113,9 @@ chmod +x run_superset.sh
 sh run_superset.sh
 ```
 
+### 10. Access Apache Superset
+Once the setup is complete and Superset is running, you can access the web interface by navigating to http://0.0.0.0:8088(Please modify it if you have previously addressed it in Step 9) in your web browser.
+
+### Conclusion
+You now have Apache Superset installed and configured on your Ubuntu/Debian VirtualBox machine. You can start exploring data, creating dashboards, and leveraging Superset's powerful visualization features.
+If you face any problems feel free to Open an issue. 

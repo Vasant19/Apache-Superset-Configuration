@@ -118,5 +118,8 @@ Once the setup is complete and Superset is running, you can access the web inter
 
 ### Conclusion
 You now have Apache Superset installed and configured on your Ubuntu/Debian VirtualBox machine. You can start exploring data, creating dashboards, and leveraging Superset's powerful visualization features.
-If you face any problems feel free to Open an issue or fill out this form https://forms.gle/R5dSfH8taeZ3s391A
+If you face any problems feel free to Open an issue or fill out this form https://forms.gle/R5dSfH8taeZ3s391A, 
+`references: ` https://superset.apache.org/docs/installation/pypi
+Review the Apache Superset documentation for installing it on Windows. Using Docker Compose simplifies the process, making integration with Windows much easier.
+
 <img src="https://github.com/Vasant19/Apache-Superset-Configuration/blob/main/Superset%20Dashboard.jpg" alt="Superset Sample dashboard" >
